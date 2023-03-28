@@ -5,6 +5,6 @@
         <title></title>
     </head>
     <body>
-        <h2>Meu CMS new</h2>
+        <h2>Meu CMS new total</h2>
     </body>
 </html>
